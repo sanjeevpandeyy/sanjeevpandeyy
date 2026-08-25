@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm <a href="https://github.com/sanjeevpandeyy" target="_blank">Sanjeev Kumar Pandey</a>
+# 👋 Hi, I'm Sanjeev Kumar Pandey
 
 ### `Full-Stack Developer · Backend Engineer · C++ Programmer`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+full-stack+applications;Designing+backend+systems;Solving+problems+with+C%2B%2B;Learning+how+real+systems+work" alt="Typing SVG" />
 
 <br/>
 
@@ -19,14 +17,10 @@
 <a href="mailto:sanjeevpandey769756@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-&nbsp;
-<a href="YOUR_RESUME_URL" target="_blank">
-<img src="https://img.shields.io/badge/Resume-FFFFFF?style=for-the-badge&logo=readthedocs&logoColor=black" />
-</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sanjeevpandeyy&style=for-the-badge&color=181717&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=sanjeevpandeyy&style=flat-square&color=808080&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -40,9 +34,7 @@
 
 </div>
 
-<br/>
-
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+---
 
 ## `WHO AM I?`
 
@@ -51,8 +43,6 @@ I'm **Sanjeev Kumar Pandey**, a Computer Science & Engineering student at **UIT 
 I work across the stack — from responsive interfaces and APIs to databases, authentication, payments, testing, and deployment.
 
 I also enjoy solving algorithmic problems using **C++** and exploring how real-world systems are designed.
-
-<br/>
 
 ```text
 ┌──────────────────────────────────────┐
@@ -67,8 +57,6 @@ I also enjoy solving algorithmic problems using **C++** and exploring how real-w
 └──────────────────────────────────────┘
 ```
 
-<br clear="right"/>
-
 ---
 
 # `⚡ WHAT I BUILD`
@@ -82,10 +70,13 @@ I also enjoy solving algorithmic problems using **C++** and exploring how real-w
 
 ### 🌐 WEB
 
-React
-Next.js
-TypeScript
-Tailwind CSS
+`React`
+
+`Next.js`
+
+`TypeScript`
+
+`Tailwind CSS`
 
 </td>
 
@@ -93,10 +84,13 @@ Tailwind CSS
 
 ### ⚙️ BACKEND
 
-Node.js
-Express
-REST
-GraphQL
+`Node.js`
+
+`Express`
+
+`REST`
+
+`GraphQL`
 
 </td>
 
@@ -104,10 +98,13 @@ GraphQL
 
 ### 🧠 SYSTEMS
 
-C++
-DSA
-Graphs
-OOP
+`C++`
+
+`DSA`
+
+`Graphs`
+
+`OOP`
 
 </td>
 
@@ -126,8 +123,6 @@ OOP
 
 A complete learning platform supporting **course discovery, enrollment, learning workflows, authentication, payments, media management, ratings, and role-based dashboards.**
 
-<div align="center">
-
 ```text
 React + Redux
        ↓
@@ -145,9 +140,13 @@ Cloudinary + Razorpay
 
 <br/>
 
+<div align="center">
+
 <a href="https://github.com/sanjeevpandeyy/StudyNotionApp" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+ 
 
 <a href="https://study-notion-app-vert.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black" />
@@ -180,6 +179,8 @@ PostgreSQL
 `TypeScript` · `GraphQL` · `PostgreSQL`
 · `Prisma` · `Docker` · `Jest`
 
+<br/>
+
 <div align="center">
 
 <a href="https://github.com/sanjeevpandeyy/document-vault" target="_blank">
@@ -210,6 +211,8 @@ Relationship Analysis
 
 `C++17` · `Graph Theory` · `BFS` · `DFS` · `STL` · `OOP`
 
+<br/>
+
 <div align="center">
 
 <a href="https://github.com/sanjeevpandeyy/MUSIC-SYSTEM-project/tree/main/Music-System" target="_blank">
@@ -220,54 +223,137 @@ Relationship Analysis
 
 ---
 
+## 🧪 Task API
+
+### `REST API & Automated Testing`
+
+A backend API focused on **service-layer architecture, validation, filtering, pagination, error handling, and automated testing**.
+
+`Node.js` · `Express.js` · `REST API` · `Jest`
+
+---
+
 # `🛠️ TECHNOLOGIES`
 
 <div align="center">
 
+### Languages
+
 <a href="https://isocpp.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=cpp" height="50" />
 </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://skillicons.dev/icons?i=javascript" height="50" />
 </a>
+
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=typescript" height="50" />
 </a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" height="50" />
+</a>
+
+<br/><br/>
+
+### Frontend
+
 <a href="https://react.dev/" target="_blank">
 <img src="https://skillicons.dev/icons?i=react" height="50" />
 </a>
+
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=nextjs" height="50" />
 </a>
+
+<a href="https://vuejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vue" height="50" />
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+</a>
+
+<a href="https://redux.js.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=redux" height="50" />
+</a>
+
+<a href="https://vite.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vite" height="50" />
+</a>
+
+<br/><br/>
+
+### Backend & APIs
+
 <a href="https://nodejs.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
 </a>
+
 <a href="https://expressjs.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=express" height="50" />
 </a>
+
 <a href="https://graphql.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=graphql" height="50" />
 </a>
+
+<br/><br/>
+
+### Databases
+
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
 </a>
+
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=postgres" height="50" />
 </a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mysql" height="50" />
+</a>
+
 <a href="https://www.prisma.io/" target="_blank">
 <img src="https://skillicons.dev/icons?i=prisma" height="50" />
 </a>
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=docker" height="50" />
-</a>
+
+<br/><br/>
+
+### Testing & DevOps
+
 <a href="https://jestjs.io/" target="_blank">
 <img src="https://skillicons.dev/icons?i=jest" height="50" />
 </a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postman" height="50" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" height="50" />
+</a>
+
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" height="50" />
 </a>
 
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
+
 </div>
+
+<br/>
+
+```text
+Frontend     → React · Next.js · TypeScript · Tailwind CSS
+Backend      → Node.js · Express · REST · GraphQL
+Database     → MongoDB · PostgreSQL · MySQL · Prisma
+Engineering  → Git · Docker · Jest · GitHub Actions
+Other        → Razorpay · Cloudinary · Framer Motion
+```
 
 ---
 
@@ -289,13 +375,15 @@ Greedy       Binary Search  Recursion
 STL          OOP            Complexity Analysis
 ```
 
+### Competitive Programming
+
 <div align="center">
 
-|    Platform   |       Peak       |
-| :-----------: | :--------------: |
-|  🟠 CodeChef  |   **1574 · 2★**  |
-| 🔵 Codeforces | **1128 · Pupil** |
-|  🟡 LeetCode  |     **1479**     |
+|    Platform   | Peak Rating | Achievement |
+| :-----------: | :---------: | :---------: |
+|  🟠 CodeChef  |   **1574**  |    **2★**   |
+| 🔵 Codeforces |   **1128**  |  **Pupil**  |
+|  🟡 LeetCode  |   **1479**  | Peak Rating |
 
 </div>
 
@@ -360,8 +448,9 @@ STL          OOP            Complexity Analysis
 
 </div>
 
-> **Good software isn't just code that works.
-> It's software that can be understood, tested, maintained, and improved.**
+> **Good software isn't just code that works.**
+>
+> **It's software that can be understood, tested, maintained, and improved.**
 
 ---
 
@@ -392,5 +481,9 @@ I'm always interested in **interesting engineering problems, useful products, op
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:303030&height=100&section=footer" />
+
+<br/>
+
+`© 2026 Sanjeev Kumar Pandey`
 
 </div>
