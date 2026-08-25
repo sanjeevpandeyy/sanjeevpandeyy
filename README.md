@@ -1,347 +1,289 @@
-<div align="center">
+# Sanjeev Kumar Pandey
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=SANJEEV%20KUMAR%20PANDEY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20FULL-STACK%20%E2%80%A2%20C%2B%2B%20%E2%80%A2%20DSA&descSize=17&descAlignY=58&descColor=c4b5fd&color=0:020617,45:111827,75:312e81,100:06b6d4"/>
+### Software Developer · Full-Stack Development · C++ & DSA
 
-<br/>
+> Building things, solving problems, and learning how software works under the hood.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+modern+web+applications;Designing+APIs+%26+backend+systems;Solving+problems+with+C%2B%2B+%26+DSA;Always+learning.+Always+building."/>
-
-<br/><br/>
-
-<a href="https://my-portfolio-tau-sand-75.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sanjeev-kumar-pandey-5451b1379">
-<img src="https://img.shields.io/badge/LINKEDIN-06B6D4?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="mailto:sanjeevpandey769756@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-F8FAFC?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-</div>
+[Portfolio](#) · [LinkedIn](#) · [GitHub](#) · [Email](#)
 
 ---
 
-<div align="center">
+## ABOUT
 
-## `ABOUT`
+I'm **Sanjeev Kumar Pandey**, a Computer Science student and Software Developer focused on building **full-stack applications, backend systems, and algorithmic solutions**.
 
-</div>
+I enjoy taking an idea from:
 
-I'm **Sanjeev Kumar Pandey**, a Computer Science student and **Software Developer** focused on building reliable, user-friendly software.
+`Concept → Architecture → Code → Debug → Deploy`
 
-My work sits at the intersection of:
+My current focus is:
 
-**Frontend Engineering × Backend Development × Problem Solving**
-
-I enjoy turning ideas into working products — designing interfaces, building APIs, working with databases, debugging systems, and continuously improving the code behind them.
-
-**Currently focused on:** `Full-Stack Development` · `Backend Engineering` · `C++ & DSA`
+**Full-Stack Development · Backend Engineering · C++ & DSA**
 
 ---
 
-<div align="center">
-
-## `WHAT I BUILD`
-
-</div>
+## WHAT I BUILD
 
 <table>
 <tr>
+<td width="33%" valign="top">
 
-<td width="33%" align="center">
+### WEB
 
-### 🖥️
+Building responsive and interactive web applications with modern frontend technologies.
 
-**WEB APPLICATIONS**
+**Focus**
 
-Responsive, component-driven interfaces focused on usability and performance.
-
-`React` `Next.js` `Tailwind`
-
-</td>
-
-<td width="33%" align="center">
-
-### ⚙️
-
-**BACKEND SYSTEMS**
-
-APIs, authentication, databases and application logic designed for real-world workflows.
-
-`Node` `Express` `GraphQL`
+React
+Next.js
+Tailwind CSS
+Framer Motion
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-### 🧠
+### BACKEND
 
-**ALGORITHMIC SOLUTIONS**
+Designing APIs, authentication systems, database workflows and server-side applications.
 
-Data structures, graph algorithms and problem solving using modern C++.
+**Focus**
 
-`C++` `DSA` `Graphs`
+Node.js
+Express.js
+GraphQL
+REST APIs
 
 </td>
 
+<td width="33%" valign="top">
+
+### PROBLEM SOLVING
+
+Breaking complex problems into efficient and maintainable solutions.
+
+**Focus**
+
+C++
+DSA
+Graph Algorithms
+OOP
+
+</td>
 </tr>
 </table>
 
 ---
 
-<div align="center">
+# SELECTED WORK
 
-# `SELECTED WORK`
-
-### A few things I've built.
-
-</div>
-
-### 📚 StudyNotion
+### StudyNotion
 
 **Full-Stack EdTech Platform**
 
-A MERN-based learning platform with course discovery, enrollment, learning workflows, ratings, reviews and role-based dashboards.
+A MERN-based learning platform designed around course discovery, enrollment, learning workflows, ratings, reviews and role-based dashboards.
 
-**Built with**
+**Stack**
 
 `React` `Redux Toolkit` `Node.js` `Express` `MongoDB` `JWT` `Razorpay` `Cloudinary`
 
-<a href="https://study-notion-app-vert.vercel.app/">
-**Live Demo →**
-</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/sanjeevpandeyy/StudyNotionApp">
-**Source Code →**
-</a>
-
 ---
 
-### 🔐 Document Vault
+### Document Vault
 
 **GraphQL Backend**
 
-A document-management API built with a schema-driven GraphQL architecture, PostgreSQL and Prisma, with automated testing and Docker-based development.
+A document-management API built around a schema-driven GraphQL architecture with PostgreSQL, Prisma, automated testing and Docker-based development.
 
-**Built with**
+**Stack**
 
-`TypeScript` `GraphQL` `PostgreSQL` `Prisma` `Docker` `GitHub Actions`
-
-<a href="https://github.com/sanjeevpandeyy/document-vault">
-**Source Code →**
-</a>
+`TypeScript` `GraphQL` `PostgreSQL` `Prisma` `Docker` `Jest`
 
 ---
 
-### 🎵 Music System
+### Music System
 
-**C++ Graph-Based Application**
+**C++ · Graph Algorithms**
 
-A graph-driven music system that models relationships between songs and uses traversal algorithms to explore connections.
+A graph-based music application where songs are represented as nodes and relationships between them form the graph.
 
-**Built with**
+Traversal algorithms are used to explore connections and recommendations.
+
+**Stack**
 
 `C++17` `Graph Theory` `BFS` `DFS` `STL` `OOP`
 
-<a href="https://github.com/sanjeevpandeyy/MUSIC-SYSTEM-project/tree/main/Music-System">
-**Source Code →**
-</a>
+---
+
+### Task API
+
+**REST API · Backend · Testing**
+
+A backend API focused on clean application logic, strict filtering, pagination, error handling and automated testing.
+
+**Stack**
+
+`Node.js` `Express.js` `REST` `Jest`
 
 ---
 
-### 🧪 Task API
+# TECH STACK
 
-**REST API & Testing**
+### Languages
 
-A backend API focused on clean application logic, filtering, pagination, error handling and automated testing.
-
-**Built with**
-
-`Node.js` `Express` `REST` `Jest`
-
-<a href="https://github.com/sanjeevpandeyy">
-**View on GitHub →**
+<p>
+<a href="https://isocpp.org/">
+<img src="https://skillicons.dev/icons?i=cpp" width="45" title="C++"/>
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="45" title="JavaScript"/>
+</a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=typescript" width="45" title="TypeScript"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="45" title="Python"/>
+</a>
+</p>
+
+### Frontend
+
+<p>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="45" title="React"/>
+</a>
+<a href="https://nextjs.org/">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45" title="Next.js"/>
+</a>
+<a href="https://tailwindcss.com/">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" title="Tailwind CSS"/>
+</a>
+<a href="https://www.framer.com/motion/">
+<img src="https://skillicons.dev/icons?i=framer" width="45" title="Framer Motion"/>
+</a>
+</p>
+
+### Backend & APIs
+
+<p>
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" title="Node.js"/>
+</a>
+<a href="https://expressjs.com/">
+<img src="https://skillicons.dev/icons?i=express" width="45" title="Express.js"/>
+</a>
+<a href="https://graphql.org/">
+<img src="https://skillicons.dev/icons?i=graphql" width="45" title="GraphQL"/>
+</a>
+</p>
+
+### Databases
+
+<p>
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" title="MongoDB"/>
+</a>
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" width="45" title="PostgreSQL"/>
+</a>
+<a href="https://www.prisma.io/">
+<img src="https://skillicons.dev/icons?i=prisma" width="45" title="Prisma"/>
+</a>
+</p>
+
+### Tools & Engineering
+
+<p>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="45" title="Git"/>
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="45" title="GitHub"/>
+</a>
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="45" title="Docker"/>
+</a>
+<a href="https://jestjs.io/">
+<img src="https://skillicons.dev/icons?i=jest" width="45" title="Jest"/>
+</a>
+<a href="https://www.postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" width="45" title="Postman"/>
+</a>
+</p>
 
 ---
 
-<div align="center">
+# PROBLEM SOLVING
 
-## `TECH STACK`
+### 400+ DSA Problems Solved
 
-<br/>
+| Platform      |      Peak Rating |
+| ------------- | ---------------: |
+| 🟠 CodeChef   |    **1574 · 2★** |
+| 🔵 Codeforces | **1128 · Pupil** |
+| 🟡 LeetCode   |         **1479** |
 
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,react,nextjs,nodejs,express,graphql,mongodb,postgres,prisma,tailwind,git,github,docker,jest,postman,vite,vercel&perline=10"/>
-
-<br/><br/>
-
-`C++` · `JavaScript` · `TypeScript` · `Python`
-
-`React` · `Next.js` · `Node.js` · `Express` · `GraphQL`
-
-`MongoDB` · `PostgreSQL` · `Prisma`
-
-`Tailwind CSS` · `Framer Motion` · `React Three Fiber`
-
-`Docker` · `Jest` · `GitHub Actions` · `Postman`
-
-</div>
+My primary language for competitive programming and DSA is **C++**.
 
 ---
 
-<div align="center">
+# CURRENTLY EXPLORING
 
-# `PROBLEM SOLVING`
-
-### 400+ DSA problems solved
-
-<br/>
-
-</div>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### 🟠 CodeChef
-
-**2★**
-
-`1574`
-
-Peak Rating
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔵 Codeforces
-
-**Pupil**
-
-`1128`
-
-Peak Rating
-
-</td>
-
-<td align="center" width="33%">
-
-### 🟡 LeetCode
-
-**Peak Rating**
-
-`1479`
-
-</td>
-
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://www.codechef.com/users/sanjeevpandey">
-<img src="https://img.shields.io/badge/CODECHEF-1574-050505?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/sanjeevpandey">
-<img src="https://img.shields.io/badge/CODEFORCES-1128-050505?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sanjeevpandey/">
-<img src="https://img.shields.io/badge/LEETCODE-1479-050505?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## `GITHUB ACTIVITY`
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sanjeevpandeyy&show_icons=true&hide_border=true&theme=transparent&title_color=A78BFA&icon_color=22D3EE&text_color=CBD5E1&bg_color=00000000"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sanjeevpandeyy&theme=transparent&hide_border=true&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=94A3B8&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevpandeyy&bg_color=020617&color=C4B5FD&line=8B5CF6&point=22D3EE&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `CURRENTLY EXPLORING`
-
-</div>
-
-```text id="3v1w0j"
-Full-Stack Development
+```text
+FULL-STACK DEVELOPMENT
         ↓
-Backend Architecture
+BACKEND ARCHITECTURE
         ↓
-GraphQL + PostgreSQL
+GRAPHQL + POSTGRESQL
         ↓
-System Design
+SYSTEM DESIGN
         ↓
-Better Software
+BETTER SOFTWARE
 ```
 
 ---
 
-<div align="center">
+# EDUCATION & EXPERIENCE
 
-## `A LITTLE MORE`
+🎓 **B.Tech — Computer Science & Engineering**
+UIT RGPV · `7.72 CGPA`
 
-🎓 **B.Tech CSE — UIT RGPV** · `7.72 CGPA`
+⚡ **Senior Web Developer — IEEE RGPV**
+Contributing to a `100+ student` technical community
 
-⚡ **Senior Web Developer — IEEE RGPV** · `100+ student community`
-
-📜 **Full Stack Development 101 — Simplilearn SkillUp**
-
-</div>
+📜 **Full Stack Development 101**
+Simplilearn SkillUp
 
 ---
 
-<div align="center">
+# GITHUB ACTIVITY
 
-# `LET'S BUILD`
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevpandeyy&show_icons=true&hide_border=true&bg_color=212121&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeevpandeyy&hide_border=true&background=212121&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=a3a3a3&dates=737373&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
+</p>
 
-I'm always interested in **challenging problems, useful products and good engineering.**
+---
 
-<br/>
+# LET'S BUILD
 
-<a href="https://www.linkedin.com/in/sanjeev-kumar-pandey-5451b1379">
-<img src="https://img.shields.io/badge/LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+Interested in **challenging problems, useful products and good engineering**.
+
+<p>
+<a href="https://github.com/sanjeevpandeyy">
+<img src="https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://my-portfolio-tau-sand-75.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=black"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-212121?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
 
-<a href="mailto:sanjeevpandey769756@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-F8FAFC?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
+```text
+BUILD → LEARN → SHIP → REPEAT
+```
 
-<br/><br/>
+---
 
-`BUILD → LEARN → SHIP → REPEAT`
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,45:312e81,75:111827,100:020617&height=130&section=footer"/>
-
-<sub>© Sanjeev Kumar Pandey</sub>
-
-</div>
+<p align="center">
+  <sub>© Sanjeev Kumar Pandey · Built with curiosity.</sub>
+</p>
